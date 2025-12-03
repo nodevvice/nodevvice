@@ -1,10 +1,10 @@
-## Hi there, I'm robyn 👋
+# Hi there, I'm robyn 👋
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Major**: Computer science
-- 🔭 **Interested in**: Compiler
-- 🌱 **Currently Learning**: [현재 배우고 있는 것] (예: Verilog, Python, Network)
+- 🎓 **Major**: Computer Science
+- 🔭 **Interested in**: Compiler, System Software
+- 🌱 **Currently Learning**: Computer Architecture, Digital System Design
 
 ---
 
@@ -22,17 +22,15 @@
 
 | 프로젝트명 (Link) | 핵심 설명 및 목적 | 맡은 역할 (Role) |
 | :--- | :--- | :--- |
-| **[미로게임 개발](https://github.com/Lmyn0/OSS-team4.git)** | **[한 줄 핵심 설명]**<br>ex) 그래프 탐색 알고리즘을 활용한 미로 찾기 게임<br>• **목적**: 알고리즘 시각화 및 게임 로직 구현 학습 | **[본인의 역할]**<br>• 백엔드 로직 구현 (Python)<br>• 미로 생성 알고리즘(DFS) 작성<br>• 결과 리포트 작성 |
-| **[리듬게임 개발](https://github.com/nodevvice/logic-project.git)** | **[한 줄 핵심 설명]**<br>ex) FPGA를 활용한 디지털 시계 구현<br>• **목적**: 하드웨어 기술 언어(HDL) 이해도 증진 | **[본인의 역할]**<br>• Verilog 모듈 설계 (Counter, Divider)<br>• Testbench 작성 및 시뮬레이션 검증 |
+| **[미로 생성/길찾기 게임](https://github.com/Lmyn0/OSS-team4.git)** | **DFS 기반 랜덤 미로 생성 시뮬레이터**<br>• **내용**: 그래프 탐색 알고리즘(DFS Backtracking)을 활용하여 랜덤 미로를 생성하고 최적 경로를 시각화<br>• **목적**: 자료구조 및 알고리즘의 실제 적용 능력 배양 | **[Backend & Logic]**<br>• Python 기반 미로 생성 알고리즘 구현<br>• DFS/BFS 탐색 로직 및 길찾기 기능 개발<br>• 프로젝트 문서화 및 결과 리포트 작성 |
+| **[FPGA Logic Project](https://github.com/nodevvice/logic-project.git)** | **Verilog 활용 리듬게임 및 로직 설계**<br>• **내용**: FPGA 보드 상에서 동작하는 리듬 게임 회로 구현<br>• **목적**: 하드웨어 기술 언어(HDL) 및 논리 회로 설계 역량 강화 | **[H/W Design]**<br>• Verilog 모듈 설계 (FSM, Counter 구현)<br>• Timing 시뮬레이션 및 디버깅<br>• Testbench 작성 및 FPGA 보드 검증 |
 
 ---
 
 ### 📈 GitHub Stats & Activity
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nodevvice&theme=radical" alt="GitHub Streak" />
-  
   <br>
-  
   <img src="https://github-profile-trophy.vercel.app/?username=nodevvice&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
 </div>
 
@@ -41,14 +39,15 @@
 <div align="center">
   <img src="https://ghchart.rshah.org/219138/nodevvice" alt="nodevvice's Github chart" />
 </div>
+
 ---
 
-### Notion
+### 📒 Technical Blog (Notion)
 
-https://www.notion.so/CUDA-2690ae803319803ab563f83572b3a441?source=copy_link
-https://www.notion.so/2700ae803319807f9c37dde841e6887b?source=copy_link
+* 📝 **[CUDA Programming Study Note](https://www.notion.so/CUDA-2690ae803319803ab563f83572b3a441?source=copy_link)**
+* 📝 **[Computer Architecture Study Note](https://www.notion.so/2700ae803319807f9c37dde841e6887b?source=copy_link)**
 
 ### 🔭 Future Plan
 
-- [ ] **Short-term**: 학업에 집중
-- [ ] **Long-term**: 컴파일러 전문가
+- [ ] **Short-term**: 컴퓨터 구조 및 컴파일러 기초 이론 완벽 이해
+- [ ] **Long-term**: 시스템 소프트웨어 및 컴파일러 전문 엔지니어
