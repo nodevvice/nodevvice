@@ -33,9 +33,11 @@
 
 ### 📈 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodevvice&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=nodevvice&theme=radical" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodevvice&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=nodevvice&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
 </div>
 
 <br>
