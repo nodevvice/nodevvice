@@ -33,9 +33,9 @@
 
 ### 📈 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[nodevvice]&show_icons=true&theme=radical" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nodevvice]&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <br>
