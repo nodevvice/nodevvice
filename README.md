@@ -33,17 +33,16 @@
 
 ### 📈 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[nodevvice]&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nodevvice&show_icons=true&theme=radical" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nodevvice]&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodevvice&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-snake.svgomg.com/github-readme-snake.svg" alt="snake animation" />
+  <img src="https://ghchart.rshah.org/219138/nodevvice" alt="nodevvice's Github chart" />
 </div>
-
 ---
 
 ### 🗺️ Dev Roadmap (Future Goal)
