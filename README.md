@@ -13,6 +13,7 @@
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Verilog-B02927?style=flat&logo=v&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 </div>
 
 ---
