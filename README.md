@@ -1,4 +1,4 @@
-# Hi there, I'm robyn 👋
+# Hi there, I'm Robyn (Yejeong)👋
 
 ### 🧑‍💻 About Me
 
