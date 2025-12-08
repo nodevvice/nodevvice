@@ -4,7 +4,7 @@
 
 - 🎓 **Major**: Computer Science
 - 🔭 **Interested in**: Compiler, System Software
-- 🌱 **Currently Learning**: Computer Architecture, Digital System Design
+- 🌱 **Currently Learning**: Computer Architecture, Digital System Design, etc...
 
 ---
 
